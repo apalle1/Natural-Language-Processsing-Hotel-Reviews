@@ -1,8 +1,8 @@
 # Natural-Language-Processsing-Hotel-Reviews
 
 **1. Sentiment Analysis and Aggregation**
-* (a) Compute average Vader sentiment and average ground truth rating per hotel.
-* (b) Rank hotels by
+* Compute average Vader sentiment and average ground truth rating per hotel.
+* Rank hotels by
   * (i) Average Ground Truth Sentiment
   * (ii) Average Vader Compound Sentiment Score
 
