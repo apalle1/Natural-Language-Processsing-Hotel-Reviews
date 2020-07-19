@@ -32,27 +32,27 @@ about these two hotels? If not, explain why not.
 
 **5. General Plots**
 * Histogram
- * Show separate histograms of ground truth and Vader sentiment scores (ignore hotel ID).
+  * Show separate histograms of ground truth and Vader sentiment scores (ignore hotel ID).
 Do you notice any interesting differences? 
- * Show a histogram of the number of reviews per hotel. Do you notice any interesting
+  * Show a histogram of the number of reviews per hotel. Do you notice any interesting
 trends? Are these expected?
 
 * Boxplots
- * In two plots, one for ground truth star rating and one for Vader sentiment, show a plot
+  * In two plots, one for ground truth star rating and one for Vader sentiment, show a plot
 of 5 side-by-side boxplots of these scores.
- * Report the mean and variance of the ground truth and Vader sentiment scores for the
+  * Report the mean and variance of the ground truth and Vader sentiment scores for the
 top-5 ranked hotels according to star rating.
- * Which do you find more informative, the boxplots or the mean and variance, or are they
+  * Which do you find more informative, the boxplots or the mean and variance, or are they
 equally informative? Why?
 
 * Scatterplots and heatmaps
- * Show both a scatterplot and heatmap of ground truth score (star rating) versus Vader
+  * Show both a scatterplot and heatmap of ground truth score (star rating) versus Vader
 sentiment score. Each review is a point on the scatterplot. Do you notice anything
 interesting? What does this tell you about star ratings vs. Vader sentiment scores?
 What does this tell you about human ratings and/or Vader sentiment analysis?
- * Show two scatterplots and two heatmaps of the length of reviews versus each of ground
+  * Show two scatterplots and two heatmaps of the length of reviews versus each of ground
 truth score and Vader sentiment score. Each review is a point on the scatterplot. Are
 there any trends?
- * Show two scatterplots of the number of reviews per hotel versus each of average ground
+  * Show two scatterplots of the number of reviews per hotel versus each of average ground
 truth score and average Vader sentiment score. In this case, each hotel is a single point
 on the scatterplot. Are there any trends?
